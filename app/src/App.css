@@ -1,0 +1,9 @@
+.btn-botcamp {
+    width: 280px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: crimson;
+    color:white;
+    text-transform: uppercase;
+}
