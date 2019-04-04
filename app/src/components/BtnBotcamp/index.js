@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css"
 
-const BtnBotcamp = () => (
-    <button className="btn-botcamp">Entrar</button>
+const BtnBotcamp = props => (
+    <button className="btn-botcamp">{props.children}</button>
 );
 
 export default BtnBotcamp;
