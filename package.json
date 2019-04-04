@@ -4,5 +4,8 @@
   "description": "Projeto do BotCamp da Impulso Network",
   "main": "index.js",
   "author": "Luis Vinicius",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "dependencies": {
+    "styled-components": "^4.2.0"
+  }
 }
